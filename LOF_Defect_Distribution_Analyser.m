@@ -12,7 +12,6 @@ A = 4050000;          % Specimen X-sectional area (No. of pixels)
 
 %% Import BW Data Files
 
-
 % SEBM
 BW_H2 = importdata('BW_H2.mat');  % D050
 BW_H4 = importdata('BW_H4.mat');  % D100
