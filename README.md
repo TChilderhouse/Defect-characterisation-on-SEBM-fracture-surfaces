@@ -1,1 +1,1 @@
-# LOF-defect-identification
+This GitHub repository contains the Matlab files used to locate and plot the spatial distributions of unmelted powder particles found on images of SEBM fatigue specimen fracture surfaces presented in the article titled: "The influence of finish machining depth and hot isostatic pressing on defect distribution and fatigue behaviour of selective electron beam melted Ti-6Al-4V".
